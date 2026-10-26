@@ -8,7 +8,7 @@ Runnable, fully commented Java examples for **Week 3** of CIS 1130 Intro to Comp
 2. Copy this repository into your workspace (you only need to do this once):
 
    ```
-   git clone REPO_URL
+   git clone https://github.com/fa26-iecc-cis1130-zachwilson/cis1130-week03-code-guide.git
    cd cis1130-week03-code-guide
    ```
 
